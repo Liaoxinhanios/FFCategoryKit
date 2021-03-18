@@ -1,9 +1,9 @@
 {
   "name": "FFCategoryKit",
-  "version": "0.1.0",
+  "version": "1",
   "summary": "A short description of FFCategoryKit.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/lxh/FFCategoryKit",
+  "homepage": "https://github.com/Liaoxinhanios/FFCategoryKit.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "lxh": "294852541@qq.com"
   },
   "source": {
-    "git": "https://github.com/lxh/FFCategoryKit.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/Liaoxinhanios/FFCategoryKit.git",
+    "tag": "1"
   },
   "platforms": {
     "ios": "9.0"
